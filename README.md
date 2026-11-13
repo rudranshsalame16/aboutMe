@@ -3,11 +3,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RudranshSalame84/rudranshsalame84/main/assets/github-banner.svg" width="100%" alt="Rudransh Salame GitHub Banner" />
+<img src="https://raw.githubusercontent.com/PravinSalame84/pravinsalame84/main/assets/github-banner.svg" width="100%" alt="Rudransh Salame GitHub Banner" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/RudranshSalame84/rudranshsalame84/main/assets/profile-photo.jpg" width="145" alt="Rudransh Salame" />
+<img src="https://raw.githubusercontent.com/rudranshsalame16/main/assets/profile-photo.jpg" width="145" alt="Rudransh Salame" />
 
 <h2>Hi, I'm Rudransh! 👨‍💻</h2>
 
@@ -113,22 +113,13 @@ Discovering how applications communicate and manage information.
 🚀 Projects & Experiments
 
 I love learning by building! Here are some projects and experiments from my development journey.
-
+My digital solutions initiative where I explore creative ideas, modern web technologies and software products.
+**Exploring:** React · JavaScript · UI/UX
 <table>
 <tr>
 <td width="50%" valign="top">
-My digital solutions initiative where I explore creative ideas, modern web technologies and software products.
-
-  **Exploring:** React · JavaScript · UI/UX
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🎙️ VoiceNote AI</h3>
-An idea for an offline-first application that transforms conversations into organized notes.
+<h3>Exploring offline AI</h3>
+An idea for an offline-first application that uses and work with AI in offline mode.
 
   **Exploring:** Audio · AI · Speech-to-text
 </td>
@@ -179,23 +170,12 @@ I believe consistency is the key to becoming a better programmer. Every project,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RudranshSalame84&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudranshSalame84&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Most Used Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=RudranshSalame84&theme=tokyonight&hide_border=true&border_radius=10" width="80%" alt="GitHub Contribution Streak" />
-
 </div>
 
 🐍 My Coding Journey
 
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RudranshSalame84/rudranshsalame84/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RudranshSalame84/rudranshsalame84/output/github-contribution-grid-snake.svg"/>
-<img src="https://raw.githubusercontent.com/RudranshSalame84/rudranshsalame84/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation"/>
 </picture>
 </div>
 
@@ -203,7 +183,7 @@ I believe consistency is the key to becoming a better programmer. Every project,
 
 My curiosity never stops! Here are some things I'm excited to explore:
 
-⚛️ Building interactive websites with React.js.
+⚛️ Learning to Build interactive websites with React.js.
 📱 Learning to create Android and iOS applications.
 💛 Improving my JavaScript programming skills.
 ⚙️ Understanding Node.js, APIs and databases.
@@ -237,7 +217,7 @@ I'm always excited to learn new things, explore interesting projects, and connec
 
 <h3>Have an interesting idea? Let's explore it! 💡</h3>
 
-<a href="https://github.com/RudranshSalame84">
+<a href="https://github.com/rudranshsalame16">
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" />
 </a>
 
@@ -245,13 +225,13 @@ I'm always excited to learn new things, explore interesting projects, and connec
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:rudranshsalamengp@gmail.com">
+<a href="mailto:rudransh.salame@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hello-f97316?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RudranshSalame84&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=RudranshSalame&style=for-the-badge&color=8b5cf6" alt="Profile Views"/>
 
 <br/><br/>
 
