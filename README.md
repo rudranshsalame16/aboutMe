@@ -117,19 +117,11 @@ I love learning by building! Here are some projects and experiments from my deve
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🔷 CremaxTech</h3>
 My digital solutions initiative where I explore creative ideas, modern web technologies and software products.
 
   **Exploring:** React · JavaScript · UI/UX
 </td>
-<td width="50%" valign="top">
-  <h3>🧾 CremaxInvoice</h3>
-  <a href="https://cremaxinvoice.com">Visit Project ↗</a>
 
-  An invoice management application concept designed to help freelancers and small businesses.
-
-  **Exploring:** React · Material UI · Productivity
-</td>
 
 
 </tr>
