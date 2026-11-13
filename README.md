@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PravinSalame84/pravinsalame84/main/assets/github-banner.svg" width="100%" alt="Rudransh Salame GitHub Banner" />
-
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/rudranshsalame16/main/assets/profile-photo.jpg" width="145" alt="Rudransh Salame" />
@@ -12,7 +10,7 @@
 <h2>Hi, I'm Rudransh! 👨‍💻</h2>
 
 <h3>Learning Today. Building Tomorrow. 🚀</h3>
-
+I love to play chess
 <p>
 I'm a student with a big curiosity about technology and a dream of becoming a great software developer.
 I love learning programming languages, experimenting with new technologies, building small projects,
